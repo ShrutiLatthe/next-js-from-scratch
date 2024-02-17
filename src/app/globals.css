@@ -1,0 +1,26 @@
+body{
+  margin: 0px;
+  background-color: #e8e8e8;
+}
+header{
+  width: 1439px;
+  height: 80px;
+  background-color: #ffffff;
+  margin: auto;
+  border: 1px dashed #0000;
+}
+main{
+  width: 1439px;
+  height: 3000px;
+  background-color: #f0e3e3;
+  margin: auto;
+  border: 1px dashed #0000;
+}
+footer{
+  width: 1439px;
+  height: 302px;
+  background-color: #ffffff;
+  margin: auto;
+  border: 1px dashed #0000;
+
+}
