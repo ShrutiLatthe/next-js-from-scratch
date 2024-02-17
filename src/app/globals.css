@@ -2,25 +2,22 @@ body{
   margin: 0px;
   background-color: #e8e8e8;
 }
+.nx-main{
+background-color: rgb(255, 255, 255); 
+}
 header{
-  width: 1439px;
-  height: 80px;
-  background-color: #ffffff;
-  margin: auto;
+  height: 107px;
+  background-color: #9933cc ;
   border: 1px dashed #0000;
 }
 main{
-  width: 1439px;
-  height: 3000px;
-  background-color: #f0e3e3;
-  margin: auto;
+  min-height: 550px;  
+  background-color: #ffffff;
   border: 1px dashed #0000;
 }
 footer{
-  width: 1439px;
-  height: 302px;
-  background-color: #ffffff;
-  margin: auto;
+  height: 65px;
+  background-color: #0099cc;
   border: 1px dashed #0000;
 
 }

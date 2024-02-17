@@ -1,11 +1,8 @@
-import React from "react";
-import LeftAside from "./LeftAside";
-import RightAside from "./RightAside";
+import React from 'react'
 
-const Main = () => {
+const page = () => {
   return (
- 
-        <section className="col-6  nx-main">
+    <section className="col-6  nx-main">
           <h1>The City</h1>
           <p>
             Lorem Ipsum is simply dummy text of the printing and typesetting
@@ -14,8 +11,7 @@ const Main = () => {
             and scrambled it to make a type specimen book.
           </p>
         </section>
+  )
+}
 
-  );
-};
-
-export default Main;
+export default page
